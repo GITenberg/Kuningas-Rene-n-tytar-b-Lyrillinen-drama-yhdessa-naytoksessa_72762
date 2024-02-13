@@ -1,0 +1,48 @@
+_repo: Kuningas-Rene-n-tytar-b-Lyrillinen-drama-yhdessa-naytoksessa_72762
+_version: 0.0.1
+alternative_title: Kong Renés datter. Finnish
+contributor:
+  translator:
+    agent_name: Enlund, J.
+    alias: Enlund, Juhana
+    birthdate: 1836
+    deathdate: 1914
+    gutenberg_agent_id: '8795'
+    url: http://www.gutenberg.org/2009/agents/8795
+creator:
+  author:
+    agent_name: Hertz, Henrik
+    aliases:
+    - Herz, Henrik
+    - Hertz, Hendrik
+    birthdate: 1798
+    deathdate: 1870
+    gutenberg_agent_id: '56802'
+    url: http://www.gutenberg.org/2009/agents/56802
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Henrik_Hertz
+    - https://fi.wikipedia.org/wiki/Henrik_Hertz
+    - https://da.wikipedia.org/wiki/Henrik_Hertz
+description: ''
+gutenberg_issued: '2024-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72762'
+language: fi
+pgterms:marc905: 20220424073631hertz
+pgterms:marc906: '1878'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bSuomalaisen Kirjallisuuden Seura, $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love -- Drama'
+- !lcsh 'Fathers and daughters -- Drama'
+- !lcsh 'Kings and rulers -- Drama'
+- !lcsh 'Danish drama -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Kuningas René''n tytär : $b Lyrillinen drama yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/72762
