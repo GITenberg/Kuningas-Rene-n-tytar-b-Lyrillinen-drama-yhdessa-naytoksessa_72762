@@ -9,6 +9,9 @@ contributor:
     deathdate: 1914
     gutenberg_agent_id: '8795'
     url: http://www.gutenberg.org/2009/agents/8795
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hertz, Henrik
@@ -24,6 +27,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Henrik_Hertz
     - https://da.wikipedia.org/wiki/Henrik_Hertz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72762#Kuningas-Rene-n-tytar-b-Lyrillinen-drama-yhdessa-naytoksessa
 gutenberg_issued: '2024-01-20'
 gutenberg_type: Text
 identifiers:
